@@ -1,5 +1,5 @@
 {
-  "name": "oo-starbucks",
+  "name": "q",
   "version": "1.0.0",
   "main": "index.js",
   "author": "davidtan <davidtan@thoughtworks.com>",
@@ -11,5 +11,6 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
-  }
+  },
+  "repository": "https://github.com/Mohafizz/oo-starbucks.git"
 }
